@@ -8,7 +8,7 @@ ChiterCaps es un proyecto de tienda online de gorras New Era, orientado al públ
 El objetivo principal es desarrollar un e-commerce atractivo y funcional, incorporando técnicas de fast prompting y generación de contenido visual mediante modelos de IA, para crear imágenes, descripciones y prompts que potencien la estética y la comunicación de la marca.
 
 ## Introducción
-...
+
 **Nombre del proyecto:** ChiterCaps
 
 ### Presentación del problema a abordar
@@ -29,7 +29,7 @@ Esta integración de IA permite agilizar la producción de contenido, mejorar la
 El proyecto es técnicamente viable, ya que utiliza herramientas gratuitas o de bajo costo (como modelos de generación de imágenes y textos), y se implementa sobre plataformas conocidas (Tienda Nube, HTML, CSS, Bootstrap). El tiempo estimado para su desarrollo y las competencias técnicas disponibles son suficientes para alcanzar los objetivos planteados.
 
 ## Objetivos
-...
+
 - Crear un e-commerce funcional y visualmente atractivo de gorras New Era.
 - Aplicar técnicas de fast prompting para generar contenido visual y textual de manera eficiente.
 - Mejorar la experiencia del usuario mediante imágenes de alta calidad y descripciones persuasivas.
@@ -46,7 +46,7 @@ El proyecto se llevará a cabo mediante los siguientes pasos:
 Cada etapa se justificará mediante la eficiencia que aporta la IA y la facilidad de implementación sobre plataformas existentes.
 
 ## Herramientas y tecnologías
-...
+
 - **Fast prompting:** se aplicará para generar imágenes de productos, banners promocionales y contenido para redes sociales.
 - **Generación de imágenes:** herramientas de IA (como NightCafe, DALL·E o similares) para crear mockups y fotos con estilo streetwear.
 - **Desarrollo web:** HTML, CSS y Bootstrap para estructurar la tienda online.
